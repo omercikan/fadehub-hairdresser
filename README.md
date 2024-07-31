@@ -1,7 +1,7 @@
 -|FADEHUB HAIRDRESSER|-
 
  
- **** Anasayfa giriş ekranı.
+ 	**** Anasayfa giriş ekranı.
 ![](https://l24.im/67PMQ9)
 
 	 **** Hizmetler alanı.
