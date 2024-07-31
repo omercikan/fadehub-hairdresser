@@ -1,5 +1,5 @@
-                                                                                              -|FADEHUB HAIRDRESSER|-
- 
+-|FADEHUB HAIRDRESSER|-
+
  
  **** Anasayfa giriş ekranı.
 ![](https://l24.im/67PMQ9)
