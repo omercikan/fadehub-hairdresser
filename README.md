@@ -26,5 +26,7 @@
 ![](https://l24.im/haz)
 
 //------------------------//
+
  **Canlı** demo link: https://fadehub.netlify.app
+
 //------------------------//
