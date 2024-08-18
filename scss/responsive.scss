@@ -23,12 +23,10 @@
   
 @media(max-width: 1024px) {
     .pricing-container {
-    
         .pricing-row-container {
             flex-direction: column;
             
             .pricing-row {
-        
                 .pricing-col {
                     margin: .5rem auto !important;
                 }
@@ -47,10 +45,8 @@
     }
 
     .shop-gallery-animate {
-    
         .shop-gallery-row:nth-child(1) {
             .shop-gallery-col {
-                display: none !important;
                 
                 img {
                     height: 200px !important;
@@ -61,9 +57,7 @@
     }
 
     .accordion-row {
-        
         .accordion-col {
-
             .accordion-content {
                 flex-wrap: wrap;
 
@@ -90,9 +84,7 @@
     }
 
     .hairdresser-scoring {
-    
         .scoring-row {
-            
             .scoring-col {
                 width: 100%;
 
@@ -197,13 +189,11 @@
         flex-direction: column;
 
         .our-services-col {
-
             &:hover .services-content {
                 width: 95% !important;
             }
 
             .img-container {
-
                 img {
                     width: 100%;
                     height: 300px !important;
@@ -219,9 +209,7 @@
     }
 
     .our-services-header {
-
         p {
-
             br {
                 display: none;
             }
@@ -229,10 +217,8 @@
     }
 
     .writers-word  {
-
         p {
             font-size: 28px !important;
-    
             br {
                 display: none;
             }
@@ -272,7 +258,6 @@
 
     .our-services-header {
         .header-left {
-
             h2 {
                 font-size: 32px !important;
             }
@@ -284,10 +269,8 @@
     }
 
     .our-services-row{
-
         .our-services-col {
             .img-container {
-
                 img {
                     width: 100%;
                     height: 300px !important;
@@ -310,7 +293,6 @@
     }
 
     .pricing-info {
-    
         h3 {
             font-size: 16px !important;
         }
