@@ -1,0 +1,652 @@
+// //!1245PX LG DESKTOP
+@media(max-width: 1245px) {
+    .writers-word p {
+        transform: skew(0deg) !important;
+        font-size: 30px !important;
+    }
+
+    .our-services-header {
+        flex-direction: column;
+        text-align: center;
+
+        .header-left {
+
+            h2 {
+
+                br {
+                    display: none;
+                }
+            }
+        }
+    }
+}
+  
+@media(max-width: 1024px) {
+    .pricing-container {
+    
+        .pricing-row-container {
+            flex-direction: column;
+            
+            .pricing-row {
+        
+                .pricing-col {
+                    margin: .5rem auto !important;
+                }
+            }
+        }
+    }
+
+    .our-services-container.shop-gallery-container {
+        padding-top: 36px !important;
+        padding-bottom: 36px !important;
+    }
+
+    .accordion-shop-container {
+        padding-top: 36px !important;
+        padding-bottom: 36px !important;
+    }
+
+    .shop-gallery-animate {
+    
+        .shop-gallery-row:nth-child(1) {
+            .shop-gallery-col {
+                display: none !important;
+                
+                img {
+                    height: 200px !important;
+                }
+            }
+    
+        }
+    }
+
+    .accordion-row {
+        
+        .accordion-col {
+
+            .accordion-content {
+                flex-wrap: wrap;
+
+                p {
+
+                    br {
+                        display: none;
+                    }
+                }
+
+                img {
+                    max-width: 100% !important;
+                    height: 300px !important;
+                    max-height: max-content !important;
+                    margin-top: .6rem !important;
+                }
+            }
+        }
+    }
+
+    .accordion-magic {
+        flex-wrap: wrap !important;
+        gap: 0 80px !important;
+    }
+
+    .hairdresser-scoring {
+    
+        .scoring-row {
+            
+            .scoring-col {
+                width: 100%;
+
+                img {
+                    width: 100% !important;
+                    height: 300px !important;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+
+    .contact-us-row {
+        flex-direction: column;
+    }
+
+    .end-footer-container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        gap: .5rem !important;
+    }
+}
+ 
+//!992PX SMALL DESKTOP AND LARGE TABLETS
+@media(max-width: 992px) {
+    .responsive-navbar {
+        display: block !important; 
+    }
+
+    .nav-links,.nav-phone {
+        display: none;
+    }
+
+    .responsive-phone {
+        display: block !important;
+        margin: 3rem 0;
+    }
+
+    .nav-items {
+        padding-left: 0 !important;
+    }
+
+    .responsive .nav-links {
+        display: flex;
+        background-color: rgba(0,0,0, 0.8);
+        width: 100%;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        position: absolute;
+        top: 66px;
+        left: 0px;
+        z-index: 99;
+        transform: translateX(0);
+
+        ul {
+            display: flex !important;
+            align-items: center !important;
+            flex-direction: column;
+
+            li {
+                margin: .7rem 0;
+            }
+        }
+    }
+}
+  
+@media(max-width: 768px) {
+    .main-home-content {
+        margin-left: 1rem !important;
+
+        p {
+            letter-spacing: 2px !important;
+        }
+
+        h1 {
+            font-size: 48px !important;
+        }
+
+        a {
+            padding: 14px 10px !important;
+        }
+    }
+
+    .contact-row {
+        flex-direction: column;
+        gap: 4rem;
+    
+        .contact-col {
+            border: none !important;
+            
+            &:not(:first-child) {
+                padding-top: 2rem;
+                border-top: 2px solid rgba(255,255,255, .1) !important;
+            }
+        }
+    }
+
+    .our-services-row{
+        flex-direction: column;
+
+        .our-services-col {
+
+            &:hover .services-content {
+                width: 95% !important;
+            }
+
+            .img-container {
+
+                img {
+                    width: 100%;
+                    height: 300px !important;
+                    object-position: center !important;
+                }
+            }
+
+            .services-content {
+                left: 5px !important;
+                width: 60% !important;
+            }
+        }
+    }
+
+    .our-services-header {
+
+        p {
+
+            br {
+                display: none;
+            }
+        }
+    }
+
+    .writers-word  {
+
+        p {
+            font-size: 28px !important;
+    
+            br {
+                display: none;
+            }
+        }
+
+        img {
+            width: 100px !important;
+            height: 100px !important;
+        }
+    }
+
+    .our-team-col {
+        width: 100% !important;
+        height: auto !important;
+    
+        .our-team-social {
+            bottom: 150px !important;
+        }
+    }
+}   
+
+@media(max-width: 666px) {
+    .main-home {
+        height: 50% !important;
+    }
+
+    .main-home-content {
+        h1 {
+            font-size: 38px !important;
+        }
+    }   
+
+    .our-services-container {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .our-services-header {
+        .header-left {
+
+            h2 {
+                font-size: 32px !important;
+            }
+        }
+
+        .header-right {
+            font-size: 15px !important;
+        }
+    }
+
+    .our-services-row{
+
+        .our-services-col {
+            .img-container {
+
+                img {
+                    width: 100%;
+                    height: 300px !important;
+                    object-position: center !important;
+                }
+            }
+
+            .services-content {
+                left: 5px !important;
+                width: 100% !important;
+                max-width: 95% !important;
+                height: 40px;
+                padding: 10px !important;
+
+                p {
+                    font-size: 16px !important;
+                }
+            }
+        }
+    }
+
+    .pricing-info {
+    
+        h3 {
+            font-size: 16px !important;
+        }
+    }
+
+    .accordion-shop-container {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .accordion-shop-header {
+
+        h2 {
+            font-size: 32px !important;
+        }
+
+        p:last-child {
+            br { 
+                display: none;
+            }
+        }
+    }
+
+    .accordion-header {
+
+        .header-left {
+
+            img {
+                width: 34px !important;
+                height: 34px !important;
+            }
+
+            h3 {
+                font-size: 24px !important;
+            }
+        }
+
+        .header-right {
+
+            i {
+                font-size: 18px !important;
+            }
+        }
+
+    }
+
+    .accordion-content {
+        padding: 0 10px !important;
+
+    }
+
+    .hairdresser-about {
+        padding: 20px 10px !important;
+    }
+
+    .customer-comments-slider-row {
+
+        .customer-comments-slider-col {
+            height: 700px !important;
+
+            img {
+                height: 60% !important;
+            }
+        }
+    }
+
+    .contact-us-container.our-services-container {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .contact-us-row {
+        padding: 54px 20px !important;
+    
+        .contact-us-left {
+            form {
+                padding: 39px 10px !important;
+            }
+        }
+    }
+
+    .end-footer {
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        width: auto !important;
+        overflow: hidden;
+        padding-bottom: 10px !important;
+    }
+
+    .end-footer-row {
+        padding-left: 10px !important;
+    }
+
+    .end-footer-container {
+        grid-template-columns: repeat(1, 1fr) !important;
+    
+        .end-footer-links {
+            padding: 38px 0px !important;
+    
+            .footer-links-col {
+                flex-direction: column;
+
+                ul {
+                    padding-left: 10px !important;
+                }
+            }
+        }
+    }
+
+    .end-footer-socials {
+        padding-left: 10px !important;
+        padding-bottom: 16px;
+    }
+}     
+  
+@media(max-width: 440px) {
+    .main-home-content {
+
+        p {
+            letter-spacing: 1px !important;
+        }
+
+        h1 {
+            font-size: 32px !important;
+            margin-bottom: 16px !important;
+
+            br {
+                display: none;
+            }
+        }
+
+        a {
+            padding: 8px !important;
+            font-size: 12px !important;
+        }
+    }
+
+    .contact-row {
+        padding: 50px 10px 50px 10px !important;
+    }
+
+    .pricing-info {
+    
+        h3 {
+            font-size: 10.9px !important;
+        }
+    }
+
+    .accordion-shop-header {
+
+        p:first-child {
+            font-size: 10px !important;
+            letter-spacing: 2px !important;
+        }
+
+        h2 {
+            font-size: 28px !important;
+        }
+
+        p:last-child {
+            font-size: 14px !important;
+            letter-spacing: 0px !important;
+        }
+
+    }
+
+    .accordion-magic {
+        flex-direction: column;
+        gap: 20px !important;
+        
+        i {
+            width: 25px !important;
+            height: 25px !important;
+            padding: 6px 0 !important;
+            font-size: 12px !important;
+        }
+
+        span {
+            font-size: 14px !important;
+        }
+    }
+
+    .about-top-title {
+        padding: 15px !important;
+        
+        p {
+            font-size: 10px !important;
+            letter-spacing: 2px !important;
+            margin: 3px 0 !important;
+        }
+
+        h2 {
+            font-size: 28px !important;
+        }
+    }
+
+    .about-text {
+        height: 100% !important;
+
+        p {
+            padding-left: 10px !important;
+            font-size: 14px !important;
+
+            br {
+                display: none;
+            }
+        }
+    }   
+
+    .about-footer {
+        padding-top: 1rem !important;
+
+        h4 {
+            font-size: 28px !important;
+        }
+
+        span {
+            font-size: 12px !important;
+        }
+    }
+
+    .writers-word {
+        height: auto !important;
+        padding: 120px 0px !important;
+    
+        p {
+            font-size: 16px !important;
+        }
+    
+        span {
+            font-size: 14px !important;
+        }
+    
+        img {
+            width: 80px !important;
+            height: 80px !important;
+        }
+    }
+
+    .scoring-content {
+
+        h4 {
+            font-size: 82px !important;
+        }
+
+        span {
+            font-size: 14px !important;
+        }
+    }
+
+    .our-team-container.our-services-container {
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
+
+        .our-team-header {
+            margin-left: 0 !important;
+            margin-right: 0 !important;
+        }
+
+        .header-left {
+
+            h2 {
+                font-size: 28px !important;
+
+                br {
+                    display: none;
+                }
+            }
+        }
+    }
+
+    .contact-us-container.our-services-container {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+
+    .contact-right-header {
+
+        h3 {
+            padding-left: 5px !important;
+        }
+    }
+
+    .contact-us-row {
+        padding: 54px 5px !important;
+    
+        .contact-us-left {
+            
+            form {
+                padding: 39px 5px !important;
+            }
+        }
+    }
+
+    .contact-right-row {
+
+        ul {
+            padding-left: 10px !important;
+            
+            li {
+                font-size: 14px !important;
+
+                &:hover {
+                    transform: translateX(15px) !important;
+                }
+            }
+
+            p {
+                margin-top: 1rem;
+                padding-left: 0 !important;
+            }
+        }
+    }
+
+    .follow-us {
+        padding-left: 10px !important;
+    }
+
+    .maps-iframe {
+    
+        iframe {
+            height: 300px !important;
+        }
+    }
+
+    .start-loader {
+    
+        .content {
+    
+            figcaption {
+                font-size: 40px !important;
+            }
+    
+            span:nth-child(4) {
+                font-size: 20px !important;
+            }
+        }
+    }
+}
