@@ -41,27 +41,27 @@
   <h1>Projeden Görüntüler</h1>
 
     Ana sayfa giriş ekranı
-![](https://l24.im/qn7uUh)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156078/fadehub-1_dewzfz.png)
 
     Hizmetler Alanı
-![](https://l24.im/kXVcA7)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156058/fadehub-2_clo8ac.png)
 
     Fiyat Detaylar Alanı
-![](https://l24.im/uHzUXG)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156045/fadehub-3_dhltig.png)
 
     Galeri Alanı
-![](https://l24.im/y8LD1R)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156063/fadehub-4_hagcap.png)
 
     Mağaza Detayı 'ACCORDION' Alanı
-![](https://l24.im/DShClx)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156051/fadehub-5_td5snn.png)
 
     Müşteri Yorum Alanı
-![](https://l24.im/oS3W)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156085/fadehub-6_pgtucc.png)
 
     Randevu Formu & İletişim Bilgileri
-![](https://l24.im/dOrfP)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156051/fadehub-7_ontstp.png)
 
     'FOOTER' Alanı
-![](https://l24.im/atQV6)
+![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156057/fadehub-8_heok1s.png)
 
 *CANLI DEMO LINK:* https://fadehub.netlify.app/ 
