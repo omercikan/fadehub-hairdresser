@@ -41,27 +41,27 @@
   <h1>Projeden Görüntüler</h1>
 
     Ana sayfa giriş ekranı
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156078/fadehub-1_dewzfz.png)
+![Home](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156078/fadehub-1_dewzfz.png)
 
     Hizmetler Alanı
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156058/fadehub-2_clo8ac.png)
+![Services](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156058/fadehub-2_clo8ac.png)
 
     Fiyat Detaylar Alanı
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156045/fadehub-3_dhltig.png)
+![Prices](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156045/fadehub-3_dhltig.png)
 
     Galeri Alanı
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156063/fadehub-4_hagcap.png)
+![Gallery](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156063/fadehub-4_hagcap.png)
 
     Mağaza Detayı 'ACCORDION' Alanı
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156051/fadehub-5_td5snn.png)
+![Shop](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156051/fadehub-5_td5snn.png)
 
     Müşteri Yorum Alanı
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156085/fadehub-6_pgtucc.png)
+![Customer](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156085/fadehub-6_pgtucc.png)
 
     Randevu Formu & İletişim Bilgileri
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156051/fadehub-7_ontstp.png)
+![Form](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156051/fadehub-7_ontstp.png)
 
     'FOOTER' Alanı
-![](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156057/fadehub-8_heok1s.png)
+![Footer](https://res.cloudinary.com/dwyvwkzap/image/upload/v1730156057/fadehub-8_heok1s.png)
 
 *CANLI DEMO LINK:* https://fadehub.netlify.app/ 
