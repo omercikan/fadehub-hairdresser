@@ -26,7 +26,7 @@
   <ol>
       <li><strong>Klonlama:</strong> Bu projeyi yerel makinenize klonlayın.
         <br><br>
-          <pre>git clone https://github.com/kullanici-adiniz/proje-adi.git</pre>
+          <pre>git clone https://github.com/omercikan/fadehub-hairdresser.git</pre>
       </li>
       <li><strong>Gerekli Paketleri Yükleme:</strong> Proje dizininde gerekli paketleri yükleyin.
         <br><br>
